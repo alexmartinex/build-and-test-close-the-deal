@@ -82,4 +82,4 @@ We're going to test Early Flake Detection's capability to detect flakiness early
 
 - Modify [array.test.js](./tests/array.test.js) by uncommenting the last test
 - Commit changes in a _different_ branch from the default branch. You can use `feature-branch-efd` or something similar.
-- See flakiness being detected in the branch page.
+- See flakiness being detected in the branch page. 
